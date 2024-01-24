@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13538158&assignment_repo_type=AssignmentRepo)
 [![Java sbt CI](https://github.com/lucformalmethodscourse/hello-java-sbt/actions/workflows/java-sbt.yml/badge.svg)](https://github.com/lucformalmethodscourse/hello-java-sbt/actions/workflows/java-sbt.yml)
 
 This build will always fail because it has 2 examples of failing tests:
